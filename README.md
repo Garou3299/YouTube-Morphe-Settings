@@ -1,2 +1,2 @@
 # YouTube-Morphe-Settings
-Settings for [YouTube Morphe](https://morphe.software/)
+My custom settings for [YouTube Morphe](https://morphe.software/)
