@@ -27,7 +27,6 @@
 "swipe_left_zone": "brightness",
 "swipe_lowest_value_enable_auto_brightness": true,
 "swipe_right_zone": "volume",
-"swipe_top_zone": "speed",
 "tap_to_seek": true,
 "theme_color_dark": "catppuccin_mocha",
 "theme_color_light": "catppuccin_latte",
